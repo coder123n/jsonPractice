@@ -1,10 +1,10 @@
 [
 	{"name":"Jocelyn",
  	 "age":16, 
-	 "classes":{"2nd":"DSW" ,"3rd":"Math" ,"4th":"English" ,"5th":"APES" ,"6th":"Sculpture"}}
+	 "classes":{"2nd":"DSW" ,"3rd":"Math" ,"4th":"English" ,"5th":"APES" ,"6th":"Sculpture"}},
 	{"name":"Joy",
  	 "age":16,
- 	 "classes":{"1st":"English","2nd":"DSW" ,"3rd":"Jazz Band" ,"4th":"Math" ,"5th":"APES" ,"6th":"Marching Band"}}
+ 	 "classes":{"1st":"English","2nd":"DSW" ,"3rd":"Jazz Band" ,"4th":"Math" ,"5th":"APES" ,"6th":"Marching Band"}},
 	{"name":"Jonathan",
  	 "age":16,
 	 "classes":{"1st":"English","2nd":"DSW" ,"3rd":"Biology" ,"4th":"Orchestra" ,"5th":"Calculus" ,"6th":"Independent PE"}}
